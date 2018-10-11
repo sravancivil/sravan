@@ -6,3 +6,4 @@ int main() {
    
 }
 Welcome to GIT
+haiiii mom and dad lets celebrate the festival
