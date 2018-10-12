@@ -7,6 +7,6 @@ int main() {
 }
 Welcome to GIT
 haiiii mom and dad lets celebrate the festival
-its holiday time
-TAMASHA -MOVIE TIME
-i do meditation regularly
+haiiii mom and dad lets celebrate the festival
+haiiii mom and dad lets celebrate the festival
+haiiii mom and dad lets celebrate the festival
