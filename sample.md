@@ -6,7 +6,9 @@ int main() {
    
 }
 Welcome to GIT
-haiiii mom and dad lets celebrate the festival
-haiiii mom and dad lets celebrate the festival
-haiiii mom and dad lets celebrate the festival
-haiiii mom and dad lets celebrate the festival
+
+
+
+when the world is seen self DISAPPEARS, when the self is seen world disappears.
+when the world is seen self DISAPPEARS, when the self is seen world disappears.
+when the world is seen self DISAPPEARS, when the self is seen world disappears.
